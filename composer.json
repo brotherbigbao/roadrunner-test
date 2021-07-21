@@ -1,0 +1,19 @@
+{
+    "name": "liuyibao/roadrunner-test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "liuyibao",
+            "email": "734988964@qq.com"
+        }
+    ],
+    "require": {
+
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://mirrors.huaweicloud.com/repository/php/"
+        }
+    ]
+}
