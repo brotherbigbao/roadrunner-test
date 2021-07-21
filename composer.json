@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-
+        "spiral/roadrunner": "^2.3"
     },
     "repositories": [
         {
