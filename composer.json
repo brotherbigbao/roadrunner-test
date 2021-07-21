@@ -13,7 +13,7 @@
     "repositories": [
         {
             "type": "composer",
-            "url": "https://mirrors.huaweicloud.com/repository/php/"
+            "url": "https://mirrors.aliyun.com/composer/"
         }
     ]
 }
