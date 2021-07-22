@@ -2,6 +2,6 @@ server:
   command: "php psr-worker.php"
 
 http:
-  address: 0.0.0.0:8080
+  address: 0.0.0.0:8088
   pool:
     num_workers: 4
