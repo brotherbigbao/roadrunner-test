@@ -8,7 +8,8 @@
         }
     ],
     "require": {
-        "spiral/roadrunner": "^2.3"
+        "spiral/roadrunner": "^2.3",
+        "nyholm/psr7": "^1.4"
     },
     "repositories": [
         {
